@@ -1,12 +1,12 @@
-# Stepped-Wedge Cluster Randomized Trials: Practical Methodological Considerations
+# Stepped Wedge Designs, Part II: Practical Applications and Insights
 
-This repository contains supporting materials and numerical experiments for a presentation given by **John Rice** and **Bret Badger** on **June 2, 2026**.
+This repository contains supporting materials and numerical experiments for the presentation given by **John Rice** and **Bret Badger** on **June 2, 2026**.
 
 ## Overview
 
-The simulations provided here investigate the performance of common analytical approaches (LMM vs. GEE) in Stepped-Wedge designs with a small number of clusters. 
+Following the foundational concepts discussed in Part I, this session focuses on the practical methodological considerations encountered during trial design and analysis. 
 
-Details from the numerical experiments shared during the talk—specifically regarding coverage probabilities and small-sample corrections—can be found in the code and summary outputs within this repository.
+The simulations provided here investigate the performance of common analytical approaches (LMM vs. GEE) in Stepped-Wedge designs with a small number of clusters. Details from the numerical experiments—specifically regarding coverage probabilities and the necessity of small-sample corrections—are documented in the code and summary outputs provided.
 
 ### REFERENCES
 
