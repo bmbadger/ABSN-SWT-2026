@@ -1,6 +1,6 @@
 # Stepped Wedge Designs, Part II: Practical Applications and Insights
 
-This repository contains supporting materials and numerical experiments for the presentation given by **John Rice** and **Bret Badger** on **June 2, 2026**.
+This repository contains supporting materials and numerical experiments for the presentation given by **John Rice** and **Bret Hanlon** on **June 2, 2026**.
 
 ## Overview
 
